@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../mmcv"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../Downloads/mmspe-master"
+		}
+	],
+	"settings": {}
+}

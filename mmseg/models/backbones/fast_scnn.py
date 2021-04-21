@@ -248,6 +248,7 @@ class FeatureFusionModule(nn.Module):
 
 @BACKBONES.register_module()
 class FastSCNN(nn.Module):
+    
     """Fast-SCNN Backbone.
 
     Args:
